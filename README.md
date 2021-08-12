@@ -11,11 +11,14 @@ This repo is to help the beginners to contribute to open source projects!
 - Clone the repo on your local system
 - Create a New branch with name -  `<add-Your name>`
 - Checkout to that branch
-- Add your name and github profile link in the README file like this `[Your Name](github profile link)`
+- Add your name and github profile link in the README file after the contributors title like this `[Your Name](github profile link)` 
 - Commit the changes
 - Create a PR
 
-And you're done!! 
+
+Contributors - 
+
+
 
 
 
