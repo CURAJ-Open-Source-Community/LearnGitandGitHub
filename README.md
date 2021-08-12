@@ -1,6 +1,6 @@
 # LearnGitandGitHub
 
-This repo is to help the beginners to contribute to open source projects!
+This repo is to help beginners to contribute to open source projects!
 
 ### How to Contribute?
 
