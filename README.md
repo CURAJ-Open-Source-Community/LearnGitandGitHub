@@ -2,7 +2,10 @@
 
 This repo is to help beginners to contribute to open source projects!
 
+
 ### How to Contribute?
+
+#### Resource to learn Git and GitHub - https://www.youtube.com/watch?v=apGV9Kg7ics&t=8s
 
 - Fork the repo 
 
