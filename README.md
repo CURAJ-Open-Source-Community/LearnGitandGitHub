@@ -6,7 +6,7 @@ This repo is to help beginners to contribute to open source projects!
 ### How to Contribute?
 
 #### Resource to learn Git and GitHub - https://www.youtube.com/watch?v=apGV9Kg7ics&t=8s
-
+###### Git Documentation - https://git-scm.com/docs
 - Fork the repo 
 
 ![Screenshot from 2021-08-12 13-57-19](https://user-images.githubusercontent.com/72812470/129164412-1a71ffc0-1cc1-4b67-964a-0adef87068ea.png)
